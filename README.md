@@ -1,1 +1,1 @@
-# Kidney_disease_predication
+# Kidney_disease_predication_using_deep_learning
