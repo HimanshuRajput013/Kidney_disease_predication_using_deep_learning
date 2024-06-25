@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: kidneycnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/HimanshuRajput013/Kidney_disease_predication_using_deep_learning
+Author: HimanshuRajput013
+Author-email: hrajput0013@gmail.com
+Project-URL: Bug Tracker, https://github.com/HimanshuRajput013/Kidney_disease_predication_using_deep_learning/issues
+
+# Kidney_disease_predication_using_deep_learning
