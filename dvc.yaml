@@ -1,4 +1,3 @@
-
 stages:
   data_ingestion:
     cmd: python src/cnnClassifier/pipeline/stage_01_data_ingestion.py

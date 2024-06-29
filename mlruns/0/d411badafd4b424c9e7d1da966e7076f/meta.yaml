@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/Kidney_disease_predication_using_deep_learning/mlruns/0/d411badafd4b424c9e7d1da966e7076f/artifacts
+end_time: 1719494128957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d411badafd4b424c9e7d1da966e7076f
+run_name: brawny-bass-741
+run_uuid: d411badafd4b424c9e7d1da966e7076f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719494124224
+status: 4
+tags: []
+user_id: ACER
