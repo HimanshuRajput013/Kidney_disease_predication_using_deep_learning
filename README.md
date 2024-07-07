@@ -61,8 +61,6 @@ open up you local host and port
 
 - [Documentation](https://mlflow.org/docs/latest/index.html)
 
-- 
-
 ##### cmd
 - mlflow ui
 
